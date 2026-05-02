@@ -41,11 +41,7 @@ readme = """# 👋 Hi, I'm Gesa
 ⭐ Keep learning, keep building!
 """
 
-# write README
-with open("README.md", "w") as f:
-    f.write(readme)
 
-print("README updated")
 
 # git commands
 os.system("git add README.md")
