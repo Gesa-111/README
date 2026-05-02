@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 software engineering Student
 - 💡 Passionate about building scalable backend systems
 - 📊 Interested in Data Science & Machine Learning
 - 🔐 Exploring Cybersecurity & secure systems
