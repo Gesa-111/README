@@ -1,6 +1,6 @@
-import os
 
-readme = """# 👋 Hi, I'm Gesa
+
+readme = Hi, I am Gesa 👋 
 
 💻 Computer Science student passionate about backend development, data science, and cybersecurity.
 
